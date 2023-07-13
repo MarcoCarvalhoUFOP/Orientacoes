@@ -1,0 +1,62 @@
+Algorithm parameters
+
+Maximum Open Stacks: 3
+Execution time: 0.000074 seconds
+Number of Customers (Pieces): 10
+Number of Products (Patterns): 20
+Products (Patterns) eliminated in the Pre-processing: 12
+Products (Patterns) Sequence:
+11 
+3 [dominated]
+2 [dominated]
+10 [dominated]
+5 [dominated]
+13 [dominated]
+17 
+18 [dominated]
+19 
+7 
+4 [dominated]
+6 [dominated]
+20 
+8 
+14 [dominated]
+16 [dominated]
+15 
+1 
+9 [dominated]
+12 [dominated]
+
+Solution Matrix (Patterns (Products) x Pieces (Customers)):
+1 0 1 1 0 0 0 0 0 0 
+1 0 0 1 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 
+1 0 0 1 0 0 0 0 0 0 
+1 0 1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 
+1 0 1 0 0 0 1 0 0 0 
+0 0 1 0 0 0 1 0 0 0 
+0 1 1 0 0 0 1 0 0 0 
+0 1 0 0 0 0 1 0 1 0 
+0 1 0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 1 1 
+0 0 0 0 1 0 0 0 1 1 
+0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 1 0 0 0 0 1 
+0 0 0 0 1 0 0 1 0 1 
+0 0 0 0 1 1 0 1 0 0 
+0 0 0 0 0 1 0 1 0 0 
+0 0 0 0 0 1 0 0 0 0 
+
+Solution Matrix (Pieces (Customers) x Patterns (Products)):
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 
+0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 
+0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 
+1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 
+1 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 

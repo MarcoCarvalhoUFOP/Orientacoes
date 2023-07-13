@@ -1,0 +1,1 @@
+instancias/teste.txt|3|31|8.694e-06

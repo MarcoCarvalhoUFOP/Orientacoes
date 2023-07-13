@@ -1,0 +1,1 @@
+instancias/teste.txt|19|20|6.083e-06
